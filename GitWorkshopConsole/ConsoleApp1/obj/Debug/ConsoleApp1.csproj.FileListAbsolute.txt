@@ -1,0 +1,7 @@
+C:\GitCourse\git-workshop\GitWorkshopConsole\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\GitCourse\git-workshop\GitWorkshopConsole\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\GitCourse\git-workshop\GitWorkshopConsole\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\GitCourse\git-workshop\GitWorkshopConsole\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\GitCourse\git-workshop\GitWorkshopConsole\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\GitCourse\git-workshop\GitWorkshopConsole\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\GitCourse\git-workshop\GitWorkshopConsole\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
